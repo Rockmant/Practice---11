@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\git repository\\practice-11\\Practice - 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\onlvlbuttonclickscripts\\buttonlvlchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\onlvlbuttonclickscripts\\buttonlvlchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|s:\\git repository\\practice-11\\practice - 11\\assets\\scriptrs\\gotonextlvltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\gotonextlvltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\playerfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\playerfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlayerController.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\PlayerController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwC0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T03:02:58.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerFall.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerFall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlayerFall.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerFall.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\PlayerFall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:30:56.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoToNextLvlTrigger.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:08:13.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformBehavior.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlatformBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlatformBehavior.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlatformBehavior.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\PlatformBehavior.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:43:48.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ButtonLvlChanger.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T21:23:20.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
