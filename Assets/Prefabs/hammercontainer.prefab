@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 6852988204660837990}
   - component: {fileID: 6852988204660837991}
   - component: {fileID: 6852988204660837988}
+  - component: {fileID: 563799976879104268}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -129,6 +130,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &563799976879104268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6852988204660838010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d999aeec681aab0498dc9304107b65b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6852988204734852036
 GameObject:
   m_ObjectHideFlags: 0
@@ -194,7 +207,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6852988204734852036}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 156a779300a12fb46b1e081627b5f27c, type: 3}
+  m_Script: {fileID: 11500000, guid: ccdc91cbe4164a54e9376f1cbf0cedd3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &6852988204954202272
@@ -209,6 +222,7 @@ GameObject:
   - component: {fileID: 6852988204954202284}
   - component: {fileID: 6852988204954202285}
   - component: {fileID: 6852988204954202274}
+  - component: {fileID: 4672088917541633259}
   m_Layer: 0
   m_Name: Cylinder
   m_TagString: Untagged
@@ -295,3 +309,15 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
+--- !u!114 &4672088917541633259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6852988204954202272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d999aeec681aab0498dc9304107b65b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

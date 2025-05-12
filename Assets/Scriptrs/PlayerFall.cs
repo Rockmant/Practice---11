@@ -11,5 +11,6 @@ public class PlayerFall : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
+        Destroy(other, 0);
     }
 }

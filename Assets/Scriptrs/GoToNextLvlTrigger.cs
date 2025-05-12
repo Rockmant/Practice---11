@@ -9,8 +9,9 @@ public class GoToNextLvlTrigger : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
-            if (SceneManager.GetActiveScene().buildIndex == 4) SceneManager.LoadScene(0);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+            if (SceneManager.GetActiveScene().buildIndex == 5) SceneManager.LoadScene(0);
+            else
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         Debug.Log("he in");
     }
 

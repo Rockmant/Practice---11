@@ -58,9 +58,16 @@
   <ItemGroup>
     <Compile Include="Assets\Scriptrs\PlayerFall.cs" />
     <Compile Include="Assets\Scriptrs\GoToNextLvlTrigger.cs" />
+    <Compile Include="Assets\Scriptrs\CameraMovement.cs" />
     <Compile Include="Assets\Scriptrs\OnlvlButtonClickScripts\ButtonLvlChanger.cs" />
     <Compile Include="Assets\Scriptrs\PlayerController.cs" />
     <Compile Include="Assets\Scriptrs\PlatformBehavior.cs" />
+    <Compile Include="Assets\Scriptrs\DeathCollision.cs" />
+    <Compile Include="Assets\Scriptrs\OpenDoor.cs" />
+    <Compile Include="Assets\Scriptrs\notused\DisappearingPlatformSc.cs" />
+    <Compile Include="Assets\Scriptrs\DisappearingTrigger.cs" />
+    <Compile Include="Assets\Scriptrs\ItemScript.cs" />
+    <Compile Include="Assets\Scriptrs\CubeEaterScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

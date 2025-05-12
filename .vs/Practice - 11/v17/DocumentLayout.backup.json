@@ -3,24 +3,47 @@
   "WorkspaceRootPath": "S:\\git repository\\practice-11\\Practice - 11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\gotonextlvltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\gotonextlvltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|s:\\git repository\\practice-11\\practice - 11\\assets\\scriptrs\\itemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\itemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|s:\\git repository\\practice-11\\practice - 11\\assets\\scriptrs\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\disappearingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\disappearingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\playerfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\playerfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\deathcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\deathcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\onlvlbuttonclickscripts\\buttonlvlchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\onlvlbuttonclickscripts\\buttonlvlchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\gotonextlvltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\gotonextlvltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +53,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlayerController.cs",
-              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scriptrs\\PlayerController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAWwC0AAABPAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ItemScript.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\ItemScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\ItemScript.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\ItemScript.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\ItemScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T03:02:58.088Z",
+              "WhenOpened": "2025-05-10T19:38:35.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisappearingTrigger.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\DisappearingTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\DisappearingTrigger.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\DisappearingTrigger.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\DisappearingTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:10:50Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RunnersScript.cs",
+              "DocumentMoniker": "S:\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs",
+              "ToolTip": "S:\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs",
+              "RelativeToolTip": "..\\..\\..\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:42:49.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "OpenDoor.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\OpenDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\OpenDoor.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\OpenDoor.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\OpenDoor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:06:46.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeathCollision.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\DeathCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\DeathCollision.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\DeathCollision.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\DeathCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:23:10.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\CameraMovement.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\CameraMovement.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAApwCgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:36:59.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlayerController.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T03:02:58.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerFall.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerFall.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlayerFall.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerFall.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\PlayerFall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T04:30:56.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "GoToNextLvlTrigger.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T04:08:13.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T04:08:13.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "PlatformBehavior.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlatformBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlatformBehavior.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlatformBehavior.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\PlatformBehavior.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T04:43:48.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ButtonLvlChanger.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T21:23:20.512Z"
             }
