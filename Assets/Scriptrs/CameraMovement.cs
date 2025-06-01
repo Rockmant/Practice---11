@@ -24,6 +24,7 @@ public class CameraMovement : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Q))
         {
+           
             offset = RotateXZ(offset, 0.1f);
             transform.LookAt(playerTransform.position);
         }
@@ -38,6 +39,7 @@ public class CameraMovement : MonoBehaviour
     void FixedUpdate()
     {
         RotationInput();
-        transform.position = playerTransform.position + offset;  
+        transform.position = playerTransform.position + offset;
+        //transform.LookAt(playerTransform.position); //а вот так все красиво но это лишняя нагрузка
     }
 }

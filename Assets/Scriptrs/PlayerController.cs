@@ -80,8 +80,8 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
         PlayerKeyControl();
-        if (rb.velocity.magnitude < 5) animator.SetBool("speedChanger", false);
-        if (rb.velocity.magnitude > 5) animator.SetBool("speedChanger", true);
+        if (rb.velocity.magnitude < 3) animator.SetBool("speedChanger", false);
+        if (rb.velocity.magnitude > 3) animator.SetBool("speedChanger", true);
     }
     private void Update()
     {

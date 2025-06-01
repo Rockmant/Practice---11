@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controllerPower: 0.19
-  offset: {fileID: 0}
+  offset: {fileID: 8008550623937045750, guid: 451d09ac3d297744fa08b8a3e53036d1, type: 3}
 --- !u!54 &4190671690123586223
 Rigidbody:
   m_ObjectHideFlags: 0

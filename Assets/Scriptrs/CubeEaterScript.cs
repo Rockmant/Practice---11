@@ -19,37 +19,18 @@ public class CubeEaterScript : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.name == "CubeItem" && this.name == "CubeEater")
+        if ((other.gameObject.name == "CubeItem" && this.name == "CubeEater") || (other.gameObject.name == "CylinderItem" && this.name == "CylinderEater")
+                || (other.gameObject.name == "SphereItem" && this.name == "SphereEater"))
         {
            
             Destroy(other.gameObject);
-            
             destroyCount++;
             BridgeReveal();
             Debug.Log(destroyCount);
             Destroy(this.gameObject);
 
         }
-        if (other.gameObject.name == "CylinderItem" && this.name == "CylinderEater")
-        {
-            
-            Destroy(other.gameObject);
-            destroyCount++;
-            BridgeReveal();
-            Debug.Log(destroyCount);
-            Destroy(this.gameObject);
-
-        }
-        if (other.gameObject.name == "SphereItem" && this.name =="SphereEater")
-        {
-            
-            Destroy(other.gameObject);
-            destroyCount++;
-            BridgeReveal();
-            Debug.Log(destroyCount);
-            Destroy(this.gameObject);
-
-        }
+        
 
     }
 

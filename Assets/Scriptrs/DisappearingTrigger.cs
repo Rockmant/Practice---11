@@ -6,7 +6,7 @@ public class DisappearingTrigger : MonoBehaviour
 {
     public float disappearingTime;
 
-    private IEnumerator timer()
+    private IEnumerator Timer()
     {
         yield return new WaitForSeconds(disappearingTime);
         Destroy(this.gameObject, 0f);
@@ -14,7 +14,8 @@ public class DisappearingTrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Item")) StartCoroutine(timer());
+        if (other.CompareTag("Item")) StartCoroutine(Timer());
+
     }
     
 }

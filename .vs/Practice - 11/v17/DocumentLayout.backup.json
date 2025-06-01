@@ -3,47 +3,64 @@
   "WorkspaceRootPath": "S:\\git repository\\practice-11\\Practice - 11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|s:\\git repository\\practice-11\\practice - 11\\assets\\scriptrs\\itemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\itemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\disappearingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\disappearingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\playerfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\playerfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|s:\\git repository\\practice-11\\practice - 11\\assets\\brownmoove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\brownmoove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\deathcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\deathcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\onlvlbuttonclickscripts\\buttonlvlchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\onlvlbuttonclickscripts\\buttonlvlchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\disappearingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\disappearingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\itemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\itemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\cubeeaterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\cubeeaterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\lvl6scripts\\keydoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\lvl6scripts\\keydoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\lvl6scripts\\lvl6scriptforkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\lvl6scripts\\lvl6scriptforkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\gotonextlvltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\gotonextlvltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\specialscripts\\positionconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\specialscripts\\positionconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\playerfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\playerfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\platformbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|S:\\git repository\\practice-11\\Practice - 11\\assets\\scriptrs\\onlvlbuttonclickscripts\\buttonlvlchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6327A1D-BE01-FD0E-3DFD-E651E97B3421}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptrs\\onlvlbuttonclickscripts\\buttonlvlchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,92 +75,151 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BrownMoove.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\BrownMoove.cs",
+              "RelativeDocumentMoniker": "Assets\\BrownMoove.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\BrownMoove.cs",
+              "RelativeToolTip": "Assets\\BrownMoove.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:19:28.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lvl6ScriptForKey.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\Lvl6Scripts\\Lvl6ScriptForKey.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\Lvl6Scripts\\Lvl6ScriptForKey.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\Lvl6Scripts\\Lvl6ScriptForKey.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\Lvl6Scripts\\Lvl6ScriptForKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:38:14.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KeyDoor.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\Lvl6Scripts\\KeyDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\Lvl6Scripts\\KeyDoor.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\Lvl6Scripts\\KeyDoor.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\Lvl6Scripts\\KeyDoor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:29:16.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CubeEaterScript.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\CubeEaterScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\CubeEaterScript.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\CubeEaterScript.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\CubeEaterScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:26:17.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ItemScript.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\ItemScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\ItemScript.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\ItemScript.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\ItemScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:38:35.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T19:38:35.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DisappearingTrigger.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\DisappearingTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\DisappearingTrigger.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\DisappearingTrigger.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\DisappearingTrigger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T19:10:50Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RunnersScript.cs",
-              "DocumentMoniker": "S:\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs",
-              "ToolTip": "S:\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs",
-              "RelativeToolTip": "..\\..\\..\\unity\\My project (8)\\Assets\\Scripts\\RunnersScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:42:49.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "OpenDoor.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\OpenDoor.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\OpenDoor.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\OpenDoor.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\OpenDoor.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T16:06:46.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "DeathCollision.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\DeathCollision.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\DeathCollision.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\DeathCollision.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\DeathCollision.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T20:23:10.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "GoToNextLvlTrigger.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:08:13.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PositionConnector.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\SpecialScripts\\PositionConnector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptrs\\SpecialScripts\\PositionConnector.cs",
+              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\SpecialScripts\\PositionConnector.cs",
+              "RelativeToolTip": "Assets\\Scriptrs\\SpecialScripts\\PositionConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:43:44.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CameraMovement.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\CameraMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\CameraMovement.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\CameraMovement.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\CameraMovement.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAApwCgAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T16:36:59.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlayerController.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowFMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T03:02:58.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "PlayerFall.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlayerFall.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlayerFall.cs",
@@ -155,31 +231,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GoToNextLvlTrigger.cs",
-              "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
-              "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
-              "RelativeToolTip": "Assets\\Scriptrs\\GoToNextLvlTrigger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T04:08:13.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "PlatformBehavior.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlatformBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\PlatformBehavior.cs",
               "ToolTip": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\PlatformBehavior.cs",
               "RelativeToolTip": "Assets\\Scriptrs\\PlatformBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T04:43:48.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "ButtonLvlChanger.cs",
               "DocumentMoniker": "S:\\git repository\\practice-11\\Practice - 11\\Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptrs\\OnlvlButtonClickScripts\\ButtonLvlChanger.cs",
